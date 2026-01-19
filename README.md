@@ -1,6 +1,6 @@
 - 👋 Hi, I am Tatiana and I am a full stack web developer.
-- 👀 I’m interested in vue, reactjs, php, cats, music and cool people.
-- 🌱 I’m currently learning react.js.
+- 👀 I’m interested in reactjs, nextjs, cats, music and cool people.
+- 🌱 I’m currently learning and working with react.js.
 - 💞️ I’m looking to collaborate on awesome ideas.
 - 📫 You can reach me on my email tatiana.sobol@yahoo.com
 
